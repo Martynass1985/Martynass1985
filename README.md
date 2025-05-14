@@ -1,79 +1,86 @@
-# 🎉 Martynas Gauronskis Portfolio 🎉
+# 🎉 **Martynas Gauronskis Portfolio** 🎉
 
 👋 Welcome to the digital playground of **Martynas Gauronskis**!  
-This is where the worlds of **technology**, **sports**, and **music** collide—like a perfectly synchronized playlist for a marathon 🏃‍♂️🎶.
+Here, technology, sports, and music collide like a perfectly curated playlist for a marathon 🎶🏃‍♂️.  
 
 ---
 
-## 🧑‍💻 About Me
+## 🌟 **About Me**
 
-Hi there! I'm **Martynas**, a curious mind from **Vilnius, Lithuania** 🇱🇹.  
-I specialize in turning ideas into reality with **[Qa/Dev]**.  
-When I’m not working, you can find me:
-- 🏀 **Shooting hoops** or breaking a sweat with sports.
+Hi there! I'm **Martynas**, a QA/Dev specialist from **Vilnius, Lithuania** 🇱🇹.  
+I breathe life into ideas with a blend of **quality assurance** and **development skills**.  
+
+When I’m not coding, you might find me:  
+- 🏀 **Shooting hoops** or breaking a sweat.  
 - 🎧 **Jamming to music** that fuels my soul.  
-  Here's my go-to track for running: [🎵 *Click to vibe!*](<audio controls>
-  <source src="https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5?si=f69148012c5b46ba" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>)
+  🎵 Here’s my go-to running track:  
+  <a href="https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5?si=f69148012c5b46ba" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify">
+  </a>
 
 ---
 
-## 🚀 Skills & Superpowers
+## 🛠️ **Skills & Tools**
 
-🌟 **Technical Skills:**  
-🖥️ Coding languages, frameworks, and tools that make me a tech wizard.  
-_([JavaScript, Node.js, Postman, Cypress, Playwright, CSS, HTML, Manual testing])_
+### 🌐 **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-💡 **Soft Skills:**  
-Collaborative problem-solving, communication, and a dash of humor to keep things light.  
+### 🧰 **Testing Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA3D?style=for-the-badge&logo=playwright&logoColor=white)
+
+### 🧠 **Soft Skills**
+- 🤝 Collaborative problem-solving  
+- 🗣️ Effective communication  
+- 💡 Creative thinking  
 
 ---
 
-## 🌟 Experience
+## 🚀 **Projects**
 
-👨‍💼 **Professional Adventures:**  
-
+### 🛠️ **Featured Work**
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Martynass1985/Postman" target="_blank">
-        <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="200">
+        <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="120">
       </a>
+      <p><strong>Postman API Testing</strong></p>
     </td>
     <td align="center">
       <a href="https://github.com/Martynass1985/Cypress" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="120">
       </a>
+      <p><strong>Cypress E2E Testing</strong></p>
     </td>
   </tr>
 </table>
 
-<p>— I've been there and done it!</p>
+---
+
+## 🎓 **Education**
+
+- **Degree**: Quality Assurance (QA) Courses  
+- **Institution**: BIT (Vilnius, Lithuania)  
+- **Graduation Year**: 2025  
 
 ---
 
-## 🎓 Education
+## 🏆 **Achievements & Fun Facts**
 
-🎓 **Degree:** [Quality assurance courses]  
-🏫 **Institution:** [BIT]  
-🎓 **Grad Year:** [2025]
+- 💼 **LinkedIn**:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martynas-gauronskis/)  
 
----
-
-## 🏆 Fun Facts
-
-- 💼 **LinkedIn:** [Connect with me!](https://www.linkedin.com/in/martynas-gauronskis/)  
-- 🏅 I believe in balancing work and play like a true champion.  
-- 🎮 If life’s a game, I’m the player who presses “Start” again after every challenge.  
+- 🏅 I strive to balance work and play like a true champion.  
+- 🎮 If life’s a game, I’m the player who presses "Start" again after every challenge.  
 
 ---
 
-## 🌀 Let’s Connect!
+## 🌀 **Let’s Connect!**
 
-Whether you're here to **collaborate**, **explore**, or just **say hi**—I'm all ears! 👂  
-Drop me a message, and let’s create something amazing 🚀.
-
----
-
-> _"Life is like a playlist—you gotta keep adding new tracks to stay inspired."_ 🎶  
+Whether you're here to **collaborate**, **explore**, or just ****
+
