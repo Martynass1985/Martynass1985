@@ -1,4 +1,4 @@
-# 🛡️ QA Engineer — Automation First, Bugs Last  
+zz# 🛡️ QA Engineer — Automation First, Bugs Last  
 ### ⚙️ Cypress • 🎭 Playwright • 🧪 Postman • 🚀 CI/CD • 🧠 Clean Code Advocate
 
 ![Tested with Cypress](https://img.shields.io/badge/Tested_with-Cypress-00DCB9?style=for-the-badge&logo=cypress&logoColor=white)  
@@ -56,13 +56,13 @@ When I’m not coding, you might find me:
       <a href="https://github.com/Martynass1985/Postman" target="_blank">
         <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="120">
       </a>
-     
+     <p></p>
     </td>
     <td align="center">
       <a href="https://github.com/Martynass1985/Cypress" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="120">
       </a>
-  
+   <p></p>
     </td>
   </tr>
 </table>
