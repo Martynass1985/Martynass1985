@@ -38,12 +38,12 @@ Collaborative problem-solving, communication, and a dash of humor to keep things
   <tr>
     <td align="center">
       <a href="https://github.com/Martynass1985/Postman" target="_blank">
-        <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="150">
+        <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="200">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Martynass1985/Cypress" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="200">
       </a>
     </td>
   </tr>
