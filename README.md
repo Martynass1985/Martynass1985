@@ -14,11 +14,11 @@
 
 ## 🌟 **About Me**
 
-Hi there! I'm **Martynas**, a QA/Dev specialist from **Vilnius, Lithuania** 🇱🇹.  
+Hi there! I'm **Martynas**, a QA specialist from **Vilnius, Lithuania** 🇱🇹.  
 I breathe life into ideas with a blend of **quality assurance** and **development skills**.  
 
 When I’m not coding, you might find me:  
-- 🏀 **Shooting hoops** or breaking a sweat.  
+- 🏋️ **Lifting weights** or breaking a sweat.
 - 🎧 **Jamming to music** that fuels my soul.  
   🎵 Here’s my go-to running track:  
   <a href="https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5?si=f69148012c5b46ba" target="_blank">
@@ -56,13 +56,13 @@ When I’m not coding, you might find me:
       <a href="https://github.com/Martynass1985/Postman" target="_blank">
         <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="120">
       </a>
-      <p><strong>Postman API Testing</strong></p>
+     
     </td>
     <td align="center">
       <a href="https://github.com/Martynass1985/Cypress" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="120">
       </a>
-      <p><strong>Cypress E2E Testing</strong></p>
+  
     </td>
   </tr>
 </table>
