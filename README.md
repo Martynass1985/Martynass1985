@@ -2,12 +2,13 @@
 ### ⚙️ Cypress • 🎭 Playwright • 🧪 Postman • 🚀 CI/CD • 🧠 Clean Code Advocate
 
 ![Tested with Cypress](https://img.shields.io/badge/Tested_with-Cypress-00DCB9?style=for-the-badge&logo=cypress&logoColor=white)  
-![Playwright Expert](https://img.shields.io/badge/End-to-End_Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)  
+![Playwright Expert](https://img.shields.io/badge/Tested_with-Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)  
 ![Postman API Master](https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)  
 ![CI/CD Pipeline](https://img.shields.io/badge/CI/CD_Ready-5D3FD3?style=for-the-badge&logo=githubactions&logoColor=white)  
 ![Automated Tests 100%](https://img.shields.io/badge/Test_Coverage-100%25-27AE60?style=for-the-badge)  
 ![Zero Bugs Given](https://img.shields.io/badge/Zero_Bugs_Given-8B0000?style=for-the-badge)
+
 
 ---
 
