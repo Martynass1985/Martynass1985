@@ -34,18 +34,15 @@ Collaborative problem-solving, communication, and a dash of humor to keep things
 
 👨‍💼 **Professional Adventures:**  
 
-<p>From:</p>
-<a href="https://github.com/Martynass1985/Postman" target="_blank">
-  <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="150">
-</a>
-
-<p>To:</p>
-<a href="https://github.com/Martynass1985/Cypress" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="150">
-</a>
-
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://github.com/Martynass1985/Postman" target="_blank">
+    <img src="https://www.svgrepo.com/show/354201/postman.svg" alt="Postman Project" width="150">
+  </a>
+  <a href="https://github.com/Martynass1985/Cypress" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" alt="Cypress Project" width="150">
+  </a>
+</div>
 <p>— I've been there and done it!</p>
-
 
 ---
 
