@@ -33,7 +33,7 @@ Collaborative problem-solving, communication, and a dash of humor to keep things
 ## 🌟 Experience
 
 👨‍💼 **Professional Adventures:**  
-From [![Postman]([https://your-image-url.com/image.png](https://www.svgrepo.com/show/354201/postman.svg))]([https://github.com/Martynass1985/Postman]) to [![Postman]([https://your-image-url.com/image.png]([https://www.svgrepo.com/show/354201/postman.svg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png))([https://github.com/Martynass1985/Cypress]]) — I've been there and done it!  
+From [![Postman](https://www.svgrepo.com/show/354201/postman.svg)](https://github.com/Martynass1985/Postman) to [![Cypress](https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png)](https://github.com/Martynass1985/Cypress) — I've been there and done it! 
 
 
 ---
